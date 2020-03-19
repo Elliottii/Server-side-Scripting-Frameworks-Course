@@ -16,3 +16,9 @@ app.get('/catinfo', (req, res) => {
     };
     res.json(cat);
 });
+
+const pug = require('pug');
+
+// Compile the source code
+const compiledFunction = pug.compileFile('./public/index.html');
+
