@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1e4d3c3-1b46-458d-9696-514622d451cf" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.gitignore">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+            <state>
+              <caret column="13" selection-start-column="13" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -45,8 +46,8 @@
         <option value="$PROJECT_DIR$/week1/server-one/helloworld.js" />
         <option value="$PROJECT_DIR$/week1/server-one/app.js" />
         <option value="$PROJECT_DIR$/week1/server-two/app.js" />
-        <option value="$PROJECT_DIR$/week2/.gitignore" />
         <option value="$PROJECT_DIR$/week2/app.js" />
+        <option value="$PROJECT_DIR$/week2/.gitignore" />
         <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
@@ -68,11 +69,6 @@
             <path>
               <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
               <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
-              <item name="week2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -98,6 +94,9 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\eelik\WebstormProjects\serversidescripting\week2" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\eelik\WebstormProjects\serversidescripting\week2" />
       <recent name="C:\Users\eelik\WebstormProjects\serversidescripting\week1" />
@@ -139,7 +138,7 @@
       <updated>1584617638325</updated>
       <workItem from="1584617639548" duration="2906000" />
       <workItem from="1584620573298" duration="2686000" />
-      <workItem from="1584715130439" duration="4358000" />
+      <workItem from="1584715130439" duration="4703000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1584617918203</created>
@@ -180,7 +179,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9950000" />
+    <option name="totallyTimeSpent" value="10295000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -207,8 +206,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="GraphQL" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32827735" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49946696" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50053304" side_tool="true" visible="true" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -296,7 +295,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/week2/.gitignore">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
@@ -308,8 +307,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        <state>
+          <caret column="13" selection-start-column="13" selection-end-column="13" />
         </state>
       </provider>
     </entry>
