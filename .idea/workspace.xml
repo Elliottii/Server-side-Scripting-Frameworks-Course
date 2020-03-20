@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a1e4d3c3-1b46-458d-9696-514622d451cf" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/week1/server-one/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/server-one/public/__MACOSX/img/._cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/server-one/public/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/server-one/public/img/cat.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/server-one/public/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week1/server-one/public/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/server-two/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/week1/server-two/app.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week1/server-two/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/week1/server-two/public/index_old.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,17 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/week1/server-one/app.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -47,14 +35,16 @@
       <list>
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/week1/node/script.js" />
-        <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/week1/node/package.json" />
         <option value="$PROJECT_DIR$/week1/server-one/helloworld.js" />
         <option value="$PROJECT_DIR$/week1/server-one/app.js" />
+        <option value="$PROJECT_DIR$/week1/server-two/app.js" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/week2/.gitignore" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
     <option name="width" value="974" />
     <option name="height" value="1047" />
@@ -65,17 +55,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope">
-        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
-          <expand>
-            <path>
-              <item name="serversidescripting" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
-              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -83,28 +62,16 @@
               <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
               <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
             </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope">
+        <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
+          <expand>
             <path>
-              <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
-              <item name="node_modules" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
-              <item name="server-one" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="serversidescripting" type="b2602c69:ProjectViewProjectNode" />
-              <item name="serversidescripting" type="462c0819:PsiDirectoryNode" />
-              <item name="week1" type="462c0819:PsiDirectoryNode" />
-              <item name="server-one" type="462c0819:PsiDirectoryNode" />
-              <item name="public" type="462c0819:PsiDirectoryNode" />
+              <item name="serversidescripting" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
             </path>
           </expand>
           <select />
@@ -119,6 +86,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\eelik\WebstormProjects\serversidescripting\week2" />
+      <recent name="C:\Users\eelik\WebstormProjects\serversidescripting\week1" />
       <recent name="C:\Users\eelik\WebstormProjects\serversidescripting\week1\server-one\public" />
       <recent name="C:\Users\eelik\WebstormProjects\serversidescripting" />
     </key>
@@ -156,7 +125,8 @@
       <option name="presentableId" value="Default" />
       <updated>1584617638325</updated>
       <workItem from="1584617639548" duration="2906000" />
-      <workItem from="1584620573298" duration="144000" />
+      <workItem from="1584620573298" duration="2686000" />
+      <workItem from="1584715130439" duration="1216000" />
     </task>
     <task id="LOCAL-00001" summary="Second commit">
       <created>1584617918203</created>
@@ -183,26 +153,34 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3050000" />
+    <option name="totallyTimeSpent" value="6808000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="0" width="974" height="1047" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.52407" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32936078" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="GraphQL" order="8" />
+      <window_info anchor="bottom" id="GraphQL" order="8" weight="0.32936078" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32936078" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32932165" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -239,13 +217,6 @@
     <entry file="file://$PROJECT_DIR$/.idea/modules.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/week1/node/package-lock.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -274,8 +245,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/week1/server-one/app.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        <state relative-caret-position="289">
+          <caret line="17" column="3" selection-start-line="17" selection-start-column="3" selection-end-line="17" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/server-two/public/index_old.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week2/controllers/catController.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/week1/server-two/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
